@@ -1,5 +1,5 @@
 {
-    "name": "lintkit/php-coding-standards-config",
+    "name": "lintkit/editorconfig-config",
     "type": "library",
     "version": "0.1.0",
     "authors": [

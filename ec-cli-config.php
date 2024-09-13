@@ -5,7 +5,7 @@ use Symfony\Component\Finder\Finder;
 $finder = new Finder();
 $finder
 	->files()
-	->in(__DIR__)
+	->in($GLOBALS['finderOptions']['path'])
 	->ignoreVCS(true)
 	->ignoreVCSIgnored(true)
 	->ignoreDotFiles(false)

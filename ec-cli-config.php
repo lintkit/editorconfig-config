@@ -13,6 +13,7 @@ $finder
 
 	// TYPO3
 	->notPath('html/_assets')
+	->notPath('.Build')
 ;
 
 return $finder;

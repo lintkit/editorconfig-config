@@ -1,3 +1,11 @@
+# 1.0.3
+
+**13th November 2025**
+
+#### Fix
+
+- Ignore `.Build` for TYPO3 extensions
+
 # 1.0.2
 
 **7th March 2025**

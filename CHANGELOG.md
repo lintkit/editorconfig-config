@@ -1,3 +1,11 @@
+# 1.0.4
+
+**2nd December 2025**
+
+#### Dependencies
+
+- Fix `2.x` release to `2.1.1`
+
 # 1.0.3
 
 **13th November 2025**

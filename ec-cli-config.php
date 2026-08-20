@@ -9,7 +9,9 @@ $finder
 	->ignoreVCS(true)
 	->ignoreVCSIgnored(true)
 	->ignoreDotFiles(false)
+	
 	->notPath('node_modules')
+	->notPath('vendor')
 
 	// TYPO3
 	->notPath('html/_assets')

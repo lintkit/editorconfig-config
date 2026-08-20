@@ -1,3 +1,11 @@
+# 1.0.5
+
+**20th August 2026**
+
+#### Fix
+
+- Ignore `vendor` folder (despite being gitignored)
+
 # 1.0.4
 
 **2nd December 2025**
